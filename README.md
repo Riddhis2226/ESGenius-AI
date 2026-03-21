@@ -2,7 +2,7 @@
   <img src="banner/project_banner.png" width="100%" />
 </p>
 
-<h1 align="center">🌍 ESGenius AI</h1>
+<h1 align="center">🌍 ESGenius AI - AI-Powered ESG Risk & Compliance Intelligence System</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00A8E8&center=true&vCenter=true&width=800&lines=AI-Powered+ESG+Risk+Intelligence;Machine+Learning+%2B+Generative+AI;GRI+%2B+BRSR+Compliance+System;Production-Ready+Data+Science+Project" />
