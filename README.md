@@ -11,10 +11,18 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/esgenius-ai?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/your-username/esgenius-ai?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/your-username/esgenius-ai?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
+  <a href="https://github.com/Riddhis2226/esgenius-ai/stargazers">
+    <img src="https://img.shields.io/github/stars/Riddhis2226/esgenius-ai?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Riddhis2226/esgenius-ai/network">
+    <img src="https://img.shields.io/github/forks/Riddhis2226/esgenius-ai?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Riddhis2226/esgenius-ai/issues">
+    <img src="https://img.shields.io/github/issues/Riddhis2226/esgenius-ai?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Riddhis2226/esgenius-ai/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Riddhis2226/esgenius-ai?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -27,45 +35,6 @@
 
 ---
 
-## ⚡ Core Capabilities
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI + ML Intelligence
-
-* ESG Risk Prediction (Random Forest)
-* Explainable AI Insights
-* ESG Score Optimization
-
-### 📊 Analytics Engine
-
-* Advanced Data Processing
-* Interactive Dashboards
-* Risk Classification Models
-
-</td>
-<td width="50%">
-
-### 🌍 Compliance Mapping
-
-* GRI Standards Mapping
-* 🇮🇳 BRSR Integration
-* ESG Regulatory Alignment
-
-### 📑 Smart Reporting
-
-* AI-generated ESG Reports
-* Business-ready Insights
-* Strategic Recommendations
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎥 App Preview
 
 <p align="center">
@@ -74,23 +43,72 @@
 
 ---
 
+## 🌗 Dark Mode Preview
+
+<p align="center">
+  <img src="YOUR_DARK_MODE_IMAGE_LINK" width="85%" />
+</p>
+
+---
+
+## ⚡ Core Capabilities
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🧠 AI + ML Intelligence
+
+* ESG Risk Prediction
+* Explainable AI Insights
+* ESG Score Optimization
+
+### 📊 Analytics Engine
+
+* Data Processing
+* Interactive Dashboards
+* Risk Classification
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 Compliance Mapping
+
+* GRI Standards
+* 🇮🇳 BRSR Integration
+* Regulatory Alignment
+
+### 📑 Smart Reporting
+
+* AI Reports
+* Business Insights
+* Recommendations
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧠 Feature Highlights
 
-<div align="center">
+<p align="center">
 
 | 🔍 Feature          | 🚀 Description                                     |
 | ------------------- | -------------------------------------------------- |
 | ESG Risk Prediction | Classifies companies into Low / Medium / High Risk |
-| AI Insights         | Generates explanations using Gemini                |
+| AI Insights         | Generates explanations using AI                    |
 | GRI Mapping         | Maps ESG data to global standards                  |
 | BRSR Mapping        | Aligns with Indian compliance                      |
 | ESG Reports         | Generates structured reports                       |
 
-</div>
+</p>
 
 ---
 
 ## 🏗️ Architecture
+
+<p align="center">
 
 ```mermaid
 graph TD
@@ -102,22 +120,34 @@ E --> F[Insights + Reports]
 F --> G[Streamlit Dashboard]
 ```
 
+</p>
+
 ---
 
-## 📊 Live Project Metrics
+## 📊 Live Metrics
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Companies%20Analyzed-700%2B-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ML%20Accuracy-90%25-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API-Gemini%20AI-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model-Random%20Forest-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API-Google%20AI-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge" />
 
 </p>
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhis2226&theme=react-dark&hide_border=true" width="95%" />
+</p>
+
+---
+
 ## 📂 Project Structure
+
+<p align="center">
 
 ```bash
 ESGenius-AI/
@@ -139,26 +169,30 @@ ESGenius-AI/
 └── README.md
 ```
 
+</p>
+
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
 
-| Layer         | Technology    |
-| ------------- | ------------- |
-| ML            | Scikit-learn  |
-| AI            | Google Gemini |
-| Backend       | Python        |
-| Frontend      | Streamlit     |
-| Database      | MongoDB       |
-| Visualization | Plotly        |
+| Layer         | Technology   |
+| ------------- | ------------ |
+| ML            | Scikit-learn |
+| AI            | Google AI    |
+| Backend       | Python       |
+| Frontend      | Streamlit    |
+| Database      | MongoDB      |
+| Visualization | Plotly       |
 
 </p>
 
 ---
 
 ## 🚀 Quick Start
+
+<p align="center">
 
 ```bash
 git clone https://github.com/your-username/esgenius-ai.git
@@ -167,33 +201,39 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+</p>
+
 ---
 
 ## 🔐 API Setup
 
-👉 Get your API key:
-https://aistudio.google.com/app/apikey
+<p align="center">
 
-💡 Add it inside the Streamlit sidebar
+👉 https://aistudio.google.com/app/apikey
+
+Add your API key in the app sidebar
+
+</p>
 
 ---
 
 ## 💼 Use Cases
 
-* ESG Risk Analysis
-* Corporate Sustainability Insights
-* Investment Intelligence
-* Compliance Reporting
+<p align="center">
+
+ESG Risk Analysis • Sustainability Insights • Investment Intelligence • Compliance Reporting
+
+</p>
 
 ---
 
 ## 📈 Roadmap
 
-* 📊 Company Comparison Engine
-* 🧾 ESG PDF Analyzer
-* 🌐 Cloud Deployment
-* 🔐 Authentication System
-* 📡 Real-time ESG Data
+<p align="center">
+
+📊 Comparison Engine • 🧾 PDF Analyzer • 🌐 Cloud Deploy • 🔐 Auth • 📡 Live Data
+
+</p>
 
 ---
 
@@ -209,7 +249,7 @@ AI • Data Science • ML Enthusiast
 ## ⭐ Support
 
 <p align="center">
-If you like this project, give it a ⭐ and share it!
+Give this project a ⭐ if you like it!
 </p>
 
 ---
