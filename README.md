@@ -152,16 +152,18 @@ F --> G[Streamlit Dashboard]
 ```bash
 ESGenius-AI/
 │
+├── banner/
+│   └── project_banner.png
 ├── app.py
 ├── notebooks/
 │   ├── data_connection.ipynb
 │   ├── ml_pipeline.ipynb
-│   ├── esg_compliance_ai.ipynb
+│   └── esg_compliance_ai.ipynb
 │
 ├── src/
 │   ├── ml/predictor.py
 │   ├── ai/gemini_utils.py
-│   ├── compliance/mapping.py
+│   └── compliance/mapping.py
 │
 ├── models/esg_model.pkl
 ├── data/esg_data.csv
